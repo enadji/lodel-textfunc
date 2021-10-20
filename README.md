@@ -8,4 +8,4 @@ Install lodel-textfunc/ folder in the same folder of the main lodel installation
                  ├ lodel-textfunc/
 ```
 
-Add `include_once('../lodel-textfunc/textfunc_local.php');` in your `lodelconfig.php`
+Add `include_once('../lodel-textfunc/textfunc_local.php');` in your `lodelconfig.php` and `lodel/lodelconfig.php`.
